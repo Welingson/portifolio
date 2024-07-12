@@ -64,8 +64,9 @@ export function App() {
               <span className="text-yellow-400">JavaScript</span> como{" "}
               <span className="text-green-500">Node.Js</span> e{" "}
               <span className="text-slate-500">Express</span> para o
-              desenvolvimento e manutenção de API´s.
+              desenvolvimento e manutenção de API´s. <br/>
             </p>
+            <p className="text-white text-lg md:text-xl text-center">Para mais informações acesse meu perfil no Linkedin ou GitHub</p>
           </div>
           <div className="flex flex-wrap justify-center gap-4 mt-4 text-white cursor-pointer">
             <div>
